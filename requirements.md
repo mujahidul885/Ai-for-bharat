@@ -3,7 +3,7 @@
 ## Project Overview
 
 **Team Name:** PlaceReady AI  
-**Team Leader:** []  
+**Team Leader:** Mujahidul Islam
 **Problem Statement:** The Gap Between Project Completion and Interview Readiness
 
 ## Abstract
@@ -347,3 +347,4 @@ Our solution bridges this gap using Generative AI. It validates a student's skil
 
 ### Vision Statement
 "India graduates 1.5 million engineers yearly, but employability remains below 50%. PlaceReady AI doesn't replace learning platforms; it completes them. We ensure that if a student knows how to code, they also know how to get hired. Our mission is to transform 1 million students from 'project ready' to 'placement ready' by 2027."
+
